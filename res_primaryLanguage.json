@@ -56,8 +56,7 @@
           "images/portfolio/fleet-monitoring/mobile-2.png",
           "images/portfolio/fleet-monitoring/mobile-3.png",
           "images/portfolio/fleet-monitoring/mobile-4.png"          
-        ],
-        "url": "https://github.com",
+        ],        
         "technologies": [
           {
             "class": "devicon-kotlin-plain",
@@ -72,13 +71,13 @@
       {
         "title": "DEX Platform",
         "startDate": "2022",
+        "url":"https://github.com/Eugence1117/Dex-Platform",
         "description": "A Decentralized Exchange Platform in Blockchain Ethereum with custom ERC20 Token. Allow user to fund liquidity, and perform token exchange.",
         "images": [
           "images/portfolio/dex/background.jpeg",
           "images/portfolio/dex/web-1.png",
           "images/portfolio/dex/web-2.png"
-        ],
-        "url": "https://github.com",
+        ],        
         "technologies": [
           {
             "class": "devicon-solidity-plain",
@@ -137,7 +136,7 @@
           "images/portfolio/chess/game-2.png",
           "images/portfolio/chess/game-3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Eugence1117/Chess",
         "technologies": [
           {
             "class": "devicon-java-plain",
